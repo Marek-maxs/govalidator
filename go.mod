@@ -1,3 +1,3 @@
-module github.com/asaskevich/govalidator
+module github.com/Marek-maxs/govalidator
 
 go 1.13
